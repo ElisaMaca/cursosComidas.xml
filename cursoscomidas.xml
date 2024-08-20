@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cursos>
+  <comida id="1">
+    <nombre>Potaje</nombre>
+    <precio cuota="mensual" moneda="euro">27</precio>
+    <plazas>20</plazas>
+    <comienzo>1/1/2011</comienzo>
+    <fin>1/12/2011</fin>
+    <cocinero>Roberto Garcia</cocinero>
+    <cocina>1</cocina>
+  </comida>
+  <comida id="3">
+    <nombre>Lentejas</nombre>
+    <precio cuota="mensual" moneda="euro">30</precio>
+    <plazas>15</plazas>
+    <comienzo>1/3/2011</comienzo>
+    <fin>1/12/2011</fin>
+    <cocinero>Laura Mendiola</cocinero>
+    <cocina>1</cocina>
+  </comida>
+  <comida id="5">
+    <nombre>Salsa</nombre>
+    <precio cuota="mensual" moneda="euro">32</precio>
+    <plazas>10</plazas>
+    <comienzo>1/5/2011</comienzo>
+    <fin>1/12/2011</fin>
+    <cocinero>Jesus Lozano</cocinero>
+    <cocina>2</cocina>
+  </comida>
+</cursos>
